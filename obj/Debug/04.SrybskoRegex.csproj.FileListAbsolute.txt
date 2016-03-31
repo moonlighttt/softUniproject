@@ -1,0 +1,6 @@
+C:\Users\Magi\Desktop\Soft Uni\Foundamentals\C # advance\exams\exam - 11.10.15\01- My solution\exam11.10.15\exam11.10.15\04.SrybskoRegex\bin\Debug\04.SrybskoRegex.exe.config
+C:\Users\Magi\Desktop\Soft Uni\Foundamentals\C # advance\exams\exam - 11.10.15\01- My solution\exam11.10.15\exam11.10.15\04.SrybskoRegex\bin\Debug\04.SrybskoRegex.exe
+C:\Users\Magi\Desktop\Soft Uni\Foundamentals\C # advance\exams\exam - 11.10.15\01- My solution\exam11.10.15\exam11.10.15\04.SrybskoRegex\bin\Debug\04.SrybskoRegex.pdb
+C:\Users\Magi\Desktop\Soft Uni\Foundamentals\C # advance\exams\exam - 11.10.15\01- My solution\exam11.10.15\exam11.10.15\04.SrybskoRegex\obj\Debug\04.SrybskoRegex.csprojResolveAssemblyReference.cache
+C:\Users\Magi\Desktop\Soft Uni\Foundamentals\C # advance\exams\exam - 11.10.15\01- My solution\exam11.10.15\exam11.10.15\04.SrybskoRegex\obj\Debug\04.SrybskoRegex.exe
+C:\Users\Magi\Desktop\Soft Uni\Foundamentals\C # advance\exams\exam - 11.10.15\01- My solution\exam11.10.15\exam11.10.15\04.SrybskoRegex\obj\Debug\04.SrybskoRegex.pdb
